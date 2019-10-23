@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1688d58ae2dfd394fb98ae5c75f0fcf0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button_off: {fileID: 21300000, guid: 4a7a58a8940565f4e8c8bdb4a6ffaabb, type: 3}
+  - button_on: {fileID: 21300000, guid: b93763cfc13665646852d2c9337ff542, type: 3}
+  - sprite_blue: {fileID: 21300000, guid: d55f0d3116903e547988fcab41c44ae3, type: 3}
+  - sprite_red: {fileID: 21300000, guid: 489956554d0d31846b29c65b2232761c, type: 3}
+  - Money: {instanceID: 0}
+  - Status: {instanceID: 0}
+  - Tea: {instanceID: 0}
+  - Latte: {instanceID: 0}
+  - Espresso: {instanceID: 0}
+  - Americano: {instanceID: 0}
+  - Kapuchino: {instanceID: 0}
+  - Tripplo: {instanceID: 0}
+  - Macknato: {instanceID: 0}
+  - MoneyPlus: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
